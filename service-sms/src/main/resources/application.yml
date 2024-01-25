@@ -30,9 +30,9 @@ spring:
 aliyun:
   sms:
     region-id: cn-hangzhou
-    key-id: LTAI5tANPs1DWQ3jLcyryy1r
-    key-secret: g7vYabokJCafrubmWRqvl38mAn9Rtv
-    template-code: SMS_464381201
+    key-id:
+    key-secret:
+    template-code:
     sign-name: 大威天龙
 feign:
   client:
